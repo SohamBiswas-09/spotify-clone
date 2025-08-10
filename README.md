@@ -36,6 +36,7 @@ This is a front-end replica of the Spotify user interface, built to practice and
   Adds interactivity and handles dynamic content.
 
 ---
-
+## Demo Video
+[![Watch the video](https://github.com/user-attachments/assets/a80ca269-cd19-4bf2-bcc9-3c0d7a12261c)](https://github.com/user-attachments/assets/0b619bd1-37f8-4b0d-87ae-19e1a5d163e8)
 
 
